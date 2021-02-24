@@ -18,8 +18,6 @@ export class InfoPaginaService {
     console.log('Info de pagina')
     this.cargarInfo();
     this.cargarEquipo();
-
-
    }
 
    private cargarInfo(){
